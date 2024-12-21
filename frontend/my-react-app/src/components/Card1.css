@@ -1,0 +1,285 @@
+.main-card1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.power-card{
+    background-image: url('../assets/nature.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    width: 700px;
+    height: 300px;
+}
+
+.card1-btn{
+    background-color: transparent;
+    border-width: 2px;
+    padding: 10px;
+    border-color: white;
+    color: white;
+    font-weight: bold;
+}
+.icons{
+    display: flex;
+    justify-content: space-around;
+}
+.power-card-data{
+    background-color: white;
+    width: 700px;
+    padding: 40px;
+}
+
+.res{
+    text-align: center;
+    font-weight: bold;
+}
+.resp{
+    font-weight: bold;
+    color: rgb(218, 216, 213);
+}
+.we-create{
+    text-align: center;
+}
+
+.prepare-div{
+    background-image: url('../assets/nature2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    width: 700px;
+    height: 100px;
+}
+.prp-data{
+    background-color: white;
+    width: 700px;
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: space-between;
+}
+h6{
+    color: rgb(84, 233, 84);
+}
+.prp-data-div{
+    width: 300px;
+}
+.btn-make-idea{
+    padding: 20px;
+    font-weight: bold;
+    background-color: rgb(94, 211, 94);
+    border-width: 0px;
+    color: white;
+}
+.make-idea{
+    background-color: beige;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.clr{
+    background-color: azure;
+}
+.portfolio{
+    width: 700px;
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+}
+.port-divs{
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+    height: 200px;
+}
+.port{
+    display: flex;
+}
+.create-agence{
+    background-color: white;
+    width: 700px;
+    padding: 40px;
+}
+.create-agence-bg{
+    background-color: rgb(90, 231, 90);
+    padding: 40px;
+    width: 700px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.create-btn{
+    background-color: white;
+    padding: 10px;
+    border-width: 0px;
+}
+.prp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.services{
+    background-color: white;
+    padding: 40px;
+    width: 700px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.progress-container {
+     width: 100%; 
+     background-color: #e0e0e0; 
+     border-radius: 5px; 
+     overflow: hidden; 
+     margin: 10px;
+    } 
+.progress-bar1 { 
+    width: 98%; 
+    height: 30px; 
+    background-color: green; 
+    text-align: center; 
+    line-height: 30px; 
+    color: white; 
+    border-radius: 5px 0 0 5px; 
+}
+.progress-bar2 { 
+    width: 92%; 
+    height: 30px; 
+    background-color: green; 
+    text-align: center; 
+    line-height: 30px; 
+    color: white; 
+    border-radius: 5px 0 0 5px; 
+}
+.progress-bar3 { 
+    width: 97%; 
+    height: 30px; 
+    background-color: green; 
+    text-align: center; 
+    line-height: 30px; 
+    color: white; 
+    border-radius: 5px 0 0 5px; 
+}
+
+.PAC-bg{
+    background-image: url('../assets/cloud.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    width: 700px;
+    height: 150px;
+
+}
+.card2{
+    width: 700px;
+    padding: 40px;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.imgs{
+    display: flex;
+    justify-content: space-around;
+    align-items: space-around;
+}
+
+.our-products{
+    display: flex;
+}
+.our-p{
+    color: rgb(75, 216, 75);
+}
+
+.v-r-creative{
+
+    background-color: rgb(221, 221, 221);
+    border-color: rgb(156, 156, 156);
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+.btn-make-idea2{
+    padding: 20px;
+    font-weight: bold;
+    background-color:transparent;
+    border-width: 1px;
+    border-color: green;
+    margin-left: 20px;
+    color: rgb(42, 214, 51);
+}
+
+.vdk{
+    height: 250px;
+}
+
+.vdk1{
+    background-color: rgb(163, 161, 157);
+    padding: 20px;
+}
+.imgupcomg{
+    width: 350px;
+}
+.upcomg-data{
+    text-align: start;
+}
+.avalan{
+    margin-top: 20px;
+}
+
+.bg-img1{
+    background-image: url('../assets/lap.jpg');
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+    text-align:center;
+    padding: 50px;
+    margin: 20px;
+}
+
+.avalan-bg{
+    background-image: url('../assets/nature3.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    margin-bottom: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.about{
+    background-color: rgb(59, 59, 59);
+}
+
+.about-div{
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    color: white;
+}
+
+.last-div{
+    background-color: black;
+    color: white;
+}
